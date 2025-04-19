@@ -1,0 +1,301 @@
+﻿ID;Product Name;Description;Batch Number;Expire Date;Manufacturer;Category;Price
+1;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-001;2026-12-19;Novartis;Antibiotics;8,63
+2;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-002;2028-01-19;Bayer;Heart Health;3,61
+3;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-003;2025-11-15;Merck;Diabetes Care;7,69
+4;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-004;2026-03-14;Teva;Allergy Relief;5,7
+5;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-005;2026-02-11;Roche;Cholesterol Control;7,78
+6;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-006;2025-08-13;Pfizer;Pain Relief;5,46
+7;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-007;2026-06-21;Reckitt Benckiser;Cold & Flu;5,87
+8;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-008;2027-08-30;Teva;Allergy Relief;5,46
+9;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-009;2027-12-23;Merck;Diabetes Care;7,42
+10;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-010;2025-11-10;GSK;Pain Relief;3,9
+11;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-011;2027-07-02;Teva;Allergy Relief;4,07
+12;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-012;2025-11-09;AstraZeneca;Digestive Health;6,22
+13;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-013;2026-10-16;Sanofi;Allergy Relief;4,64
+14;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-014;2027-07-06;Bayer;Heart Health;2,87
+15;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-015;2026-07-06;Bayer;Heart Health;2,91
+16;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-016;2026-03-27;GSK;Pain Relief;5,61
+17;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-017;2025-12-08;Reckitt Benckiser;Cold & Flu;6,28
+18;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-018;2026-11-23;Teva;Allergy Relief;4,5
+19;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-019;2026-04-13;Teva;Allergy Relief;3,29
+20;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-020;2027-06-03;AstraZeneca;Digestive Health;7,79
+21;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-021;2026-11-26;GSK;Pain Relief;4,48
+22;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-022;2025-10-27;Sanofi;Allergy Relief;4,31
+23;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-023;2026-10-20;Novartis;Antibiotics;9,61
+24;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-024;2025-12-31;Pfizer;Pain Relief;7,02
+25;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-025;2026-11-29;Pfizer;Pain Relief;6,05
+26;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-026;2025-12-12;AstraZeneca;Digestive Health;7,51
+27;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-027;2025-12-11;Novartis;Antibiotics;8,26
+28;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-028;2027-07-05;Bayer;Heart Health;4,47
+29;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-029;2026-03-02;Reckitt Benckiser;Cold & Flu;7,25
+30;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-030;2027-12-10;Roche;Cholesterol Control;7,97
+31;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-031;2026-08-18;Teva;Allergy Relief;4,66
+32;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-032;2027-04-07;Pfizer;Pain Relief;6,26
+33;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-033;2026-12-26;Reckitt Benckiser;Cold & Flu;6,45
+34;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-034;2025-09-23;Roche;Cholesterol Control;7,6
+35;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-035;2027-09-15;Sanofi;Allergy Relief;3,71
+36;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-036;2027-08-18;Bayer;Heart Health;3,19
+37;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-037;2027-08-24;Sanofi;Allergy Relief;3,51
+38;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-038;2026-10-13;Novartis;Antibiotics;9,27
+39;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-039;2027-12-03;GSK;Pain Relief;5,86
+40;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-040;2028-01-18;Pfizer;Pain Relief;5,06
+41;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-041;2026-05-22;Roche;Cholesterol Control;6,8
+42;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-042;2026-10-06;Merck;Diabetes Care;8,84
+43;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-043;2028-01-13;Bayer;Heart Health;2,25
+44;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-044;2025-12-03;AstraZeneca;Digestive Health;8,52
+45;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-045;2026-09-10;Teva;Allergy Relief;5,66
+46;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-046;2025-12-23;Reckitt Benckiser;Cold & Flu;7,24
+47;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-047;2026-04-19;Teva;Allergy Relief;4,29
+48;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-048;2027-12-14;Merck;Diabetes Care;9
+49;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-049;2027-01-27;Reckitt Benckiser;Cold & Flu;6,78
+50;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-050;2026-10-29;Pfizer;Pain Relief;7,29
+51;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-051;2025-11-21;Roche;Cholesterol Control;7,67
+52;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-052;2027-08-29;Pfizer;Pain Relief;5,93
+53;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-053;2027-05-15;Sanofi;Allergy Relief;5,86
+54;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-054;2025-10-19;Roche;Cholesterol Control;7,15
+55;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-055;2025-11-10;Bayer;Heart Health;3,89
+56;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-056;2027-05-29;GSK;Pain Relief;3,59
+57;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-057;2027-10-24;GSK;Pain Relief;4,37
+58;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-058;2026-06-18;Merck;Diabetes Care;8,93
+59;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-059;2028-01-24;AstraZeneca;Digestive Health;5,86
+60;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-060;2026-07-03;Reckitt Benckiser;Cold & Flu;7,51
+61;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-061;2025-09-28;AstraZeneca;Digestive Health;8,15
+62;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-062;2028-01-12;Roche;Cholesterol Control;5,44
+63;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-063;2027-02-10;Pfizer;Pain Relief;6,27
+64;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-064;2025-12-12;Roche;Cholesterol Control;7,46
+65;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-065;2025-12-06;GSK;Pain Relief;3,33
+66;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-066;2027-12-07;Merck;Diabetes Care;9,36
+67;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-067;2027-01-13;Merck;Diabetes Care;8,47
+68;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-068;2026-05-02;Merck;Diabetes Care;7,46
+69;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-069;2027-02-02;AstraZeneca;Digestive Health;5,94
+70;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-070;2025-09-01;AstraZeneca;Digestive Health;6,08
+71;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-071;2027-05-11;Merck;Diabetes Care;6,69
+72;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-072;2027-10-30;Sanofi;Allergy Relief;4,61
+73;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-073;2027-05-01;Merck;Diabetes Care;9,11
+74;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-074;2027-09-04;Novartis;Antibiotics;10,37
+75;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-075;2027-03-21;Sanofi;Allergy Relief;4,13
+76;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-076;2026-04-10;Bayer;Heart Health;4,59
+77;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-077;2025-10-11;Merck;Diabetes Care;7,32
+78;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-078;2026-04-19;Reckitt Benckiser;Cold & Flu;7,66
+79;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-079;2027-03-22;Merck;Diabetes Care;7,26
+80;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-080;2026-05-06;Teva;Allergy Relief;4,55
+81;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-081;2027-05-19;Teva;Allergy Relief;3,75
+82;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-082;2026-04-09;Reckitt Benckiser;Cold & Flu;7,95
+83;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-083;2026-04-16;GSK;Pain Relief;3,71
+84;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-084;2027-05-14;Pfizer;Pain Relief;6,55
+85;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-085;2028-01-30;Reckitt Benckiser;Cold & Flu;5,43
+86;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-086;2026-08-03;Merck;Diabetes Care;7,93
+87;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-087;2027-07-29;GSK;Pain Relief;5,78
+88;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-088;2026-12-16;Roche;Cholesterol Control;6,8
+89;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-089;2026-08-12;Bayer;Heart Health;3,54
+90;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-090;2028-01-14;Teva;Allergy Relief;4,62
+91;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-091;2027-06-28;Teva;Allergy Relief;5,56
+92;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-092;2025-08-07;Merck;Diabetes Care;7,37
+93;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-093;2026-04-17;Bayer;Heart Health;2,69
+94;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-094;2026-06-03;AstraZeneca;Digestive Health;6,1
+95;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-095;2026-04-29;AstraZeneca;Digestive Health;6,23
+96;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-096;2027-08-17;Merck;Diabetes Care;7,17
+97;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-097;2025-12-13;Merck;Diabetes Care;7,71
+98;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-098;2026-04-19;Bayer;Heart Health;2,97
+99;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-099;2026-03-06;Pfizer;Pain Relief;7,18
+100;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-100;2026-09-18;Teva;Allergy Relief;4,77
+101;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-101;2026-03-08;Bayer;Heart Health;4,2
+102;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-102;2027-07-10;Sanofi;Allergy Relief;5,46
+103;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-103;2027-11-28;Teva;Allergy Relief;5,29
+104;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-104;2025-09-23;Pfizer;Pain Relief;5,17
+105;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-105;2027-07-23;GSK;Pain Relief;3
+106;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-106;2026-04-17;Sanofi;Allergy Relief;6
+107;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-107;2026-10-09;AstraZeneca;Digestive Health;7,19
+108;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-108;2027-02-22;GSK;Pain Relief;5,03
+109;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-109;2026-04-30;Novartis;Antibiotics;10,25
+110;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-110;2026-04-15;Merck;Diabetes Care;8,8
+111;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-111;2026-12-14;Merck;Diabetes Care;9,31
+112;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-112;2027-07-07;Reckitt Benckiser;Cold & Flu;6,8
+113;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-113;2026-09-14;Novartis;Antibiotics;8,83
+114;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-114;2026-12-09;Bayer;Heart Health;3,94
+115;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-115;2027-02-03;AstraZeneca;Digestive Health;6,63
+116;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-116;2025-09-21;GSK;Pain Relief;5,85
+117;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-117;2026-09-26;Reckitt Benckiser;Cold & Flu;8,04
+118;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-118;2027-11-08;Novartis;Antibiotics;8,91
+119;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-119;2027-11-27;Reckitt Benckiser;Cold & Flu;5,6
+120;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-120;2027-02-15;AstraZeneca;Digestive Health;7,28
+121;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-121;2027-02-14;Bayer;Heart Health;4,18
+122;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-122;2026-10-05;Novartis;Antibiotics;8,83
+123;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-123;2027-05-26;Pfizer;Pain Relief;6,36
+124;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-124;2026-03-09;Novartis;Antibiotics;8,53
+125;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-125;2027-11-24;Novartis;Antibiotics;9,52
+126;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-126;2026-10-04;Reckitt Benckiser;Cold & Flu;5,61
+127;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-127;2026-05-25;Sanofi;Allergy Relief;3,48
+128;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-128;2027-02-08;GSK;Pain Relief;4,58
+129;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-129;2026-08-21;Merck;Diabetes Care;7,93
+130;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-130;2027-09-18;Merck;Diabetes Care;8,27
+131;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-131;2025-10-28;Reckitt Benckiser;Cold & Flu;7,53
+132;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-132;2026-07-14;Sanofi;Allergy Relief;6,15
+133;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-133;2027-08-08;Teva;Allergy Relief;5,79
+134;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-134;2026-04-12;Pfizer;Pain Relief;5,82
+135;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-135;2027-06-02;Reckitt Benckiser;Cold & Flu;6,04
+136;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-136;2025-08-07;Merck;Diabetes Care;6,73
+137;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-137;2026-04-03;Sanofi;Allergy Relief;5,11
+138;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-138;2026-11-17;Bayer;Heart Health;2,49
+139;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-139;2027-07-10;Novartis;Antibiotics;8,27
+140;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-140;2027-11-06;Pfizer;Pain Relief;4,77
+141;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-141;2026-03-12;Bayer;Heart Health;3,35
+142;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-142;2027-03-06;Merck;Diabetes Care;6,91
+143;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-143;2027-06-14;Pfizer;Pain Relief;7,4
+144;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-144;2028-02-02;Sanofi;Allergy Relief;4,46
+145;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-145;2025-11-20;Pfizer;Pain Relief;5,21
+146;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-146;2025-08-31;Reckitt Benckiser;Cold & Flu;7,19
+147;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-147;2027-03-20;Merck;Diabetes Care;7,15
+148;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-148;2026-11-09;AstraZeneca;Digestive Health;8,53
+149;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-149;2028-01-28;Sanofi;Allergy Relief;5,65
+150;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-150;2027-02-16;Bayer;Heart Health;3,89
+151;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-151;2027-05-19;Reckitt Benckiser;Cold & Flu;8
+152;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-152;2026-09-17;Teva;Allergy Relief;5,24
+153;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-153;2025-12-02;Roche;Cholesterol Control;5,08
+154;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-154;2026-05-26;Roche;Cholesterol Control;5,07
+155;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-155;2025-12-30;AstraZeneca;Digestive Health;5,95
+156;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-156;2026-08-26;Roche;Cholesterol Control;7,44
+157;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-157;2026-03-31;Roche;Cholesterol Control;6,46
+158;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-158;2027-02-23;Sanofi;Allergy Relief;5,44
+159;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-159;2026-05-12;Merck;Diabetes Care;6,72
+160;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-160;2027-10-21;Bayer;Heart Health;2,24
+161;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-161;2027-04-09;Teva;Allergy Relief;4,63
+162;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-162;2027-04-15;Merck;Diabetes Care;6,98
+163;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-163;2027-03-25;Merck;Diabetes Care;9,39
+164;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-164;2027-02-14;Merck;Diabetes Care;7,53
+165;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-165;2025-10-23;Sanofi;Allergy Relief;5,33
+166;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-166;2026-10-28;GSK;Pain Relief;4,89
+167;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-167;2027-07-05;GSK;Pain Relief;5,95
+168;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-168;2026-04-24;Teva;Allergy Relief;3,39
+169;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-169;2027-07-01;Sanofi;Allergy Relief;6,12
+170;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-170;2027-01-16;GSK;Pain Relief;5,07
+171;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-171;2026-01-28;AstraZeneca;Digestive Health;7,01
+172;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-172;2025-09-18;Bayer;Heart Health;4,37
+173;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-173;2026-11-06;Bayer;Heart Health;2,57
+174;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-174;2027-08-13;Merck;Diabetes Care;7,7
+175;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-175;2026-03-13;Sanofi;Allergy Relief;5,95
+176;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-176;2027-01-18;AstraZeneca;Digestive Health;7,87
+177;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-177;2026-02-02;AstraZeneca;Digestive Health;8,15
+178;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-178;2026-10-14;Merck;Diabetes Care;7,15
+179;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-179;2027-06-02;Teva;Allergy Relief;5,26
+180;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-180;2026-03-15;Reckitt Benckiser;Cold & Flu;7,68
+181;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-181;2026-11-25;Merck;Diabetes Care;8,45
+182;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-182;2027-05-16;Novartis;Antibiotics;8,82
+183;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-183;2028-01-23;Reckitt Benckiser;Cold & Flu;6,4
+184;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-184;2028-01-16;Sanofi;Allergy Relief;6,13
+185;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-185;2026-10-04;Novartis;Antibiotics;8,2
+186;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-186;2026-01-30;Sanofi;Allergy Relief;3,64
+187;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-187;2026-12-20;GSK;Pain Relief;3,84
+188;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-188;2026-06-24;AstraZeneca;Digestive Health;7,82
+189;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-189;2026-10-06;Bayer;Heart Health;4,93
+190;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-190;2026-09-05;Merck;Diabetes Care;9,48
+191;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-191;2026-11-12;Reckitt Benckiser;Cold & Flu;7,83
+192;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-192;2026-08-07;Reckitt Benckiser;Cold & Flu;7,68
+193;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-193;2025-11-18;Bayer;Heart Health;4,44
+194;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-194;2025-09-29;AstraZeneca;Digestive Health;6,25
+195;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-195;2026-05-01;Roche;Cholesterol Control;5,64
+196;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-196;2026-08-01;AstraZeneca;Digestive Health;6,68
+197;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-197;2025-09-14;Reckitt Benckiser;Cold & Flu;8,16
+198;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-198;2026-01-10;Roche;Cholesterol Control;6,99
+199;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-199;2025-09-27;Merck;Diabetes Care;9
+200;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-200;2027-12-24;Novartis;Antibiotics;9,4
+201;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-201;2026-01-27;Novartis;Antibiotics;9,3
+202;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-202;2025-12-23;GSK;Pain Relief;3,7
+203;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-203;2026-08-10;Sanofi;Allergy Relief;4,23
+204;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-204;2026-11-12;Teva;Allergy Relief;5,18
+205;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-205;2026-09-21;GSK;Pain Relief;4,53
+206;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-206;2026-01-11;Reckitt Benckiser;Cold & Flu;6,57
+207;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-207;2027-01-17;Novartis;Antibiotics;10,9
+208;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-208;2027-01-11;Sanofi;Allergy Relief;4,22
+209;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-209;2025-09-16;Teva;Allergy Relief;3,87
+210;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-210;2027-11-01;Roche;Cholesterol Control;7,9
+211;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-211;2025-12-19;GSK;Pain Relief;5,87
+212;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-212;2027-03-26;Roche;Cholesterol Control;7,56
+213;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-213;2026-07-19;Bayer;Heart Health;2,49
+214;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-214;2027-01-14;AstraZeneca;Digestive Health;5,79
+215;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-215;2027-08-10;Pfizer;Pain Relief;6,27
+216;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-216;2026-08-21;Novartis;Antibiotics;9,69
+217;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-217;2025-12-31;Reckitt Benckiser;Cold & Flu;5,64
+218;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-218;2026-09-02;AstraZeneca;Digestive Health;6,53
+219;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-219;2025-12-30;GSK;Pain Relief;5,98
+220;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-220;2027-04-04;Bayer;Heart Health;4,84
+221;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-221;2027-09-29;GSK;Pain Relief;3,53
+222;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-222;2026-02-17;Pfizer;Pain Relief;6,22
+223;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-223;2028-01-11;Novartis;Antibiotics;8,16
+224;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-224;2026-04-13;Teva;Allergy Relief;3,32
+225;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-225;2027-07-12;Bayer;Heart Health;4,71
+226;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-226;2027-09-03;Roche;Cholesterol Control;7
+227;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-227;2027-01-23;Pfizer;Pain Relief;6,53
+228;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-228;2025-08-28;Pfizer;Pain Relief;5,29
+229;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-229;2027-04-23;Novartis;Antibiotics;10,57
+230;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-230;2028-01-28;Merck;Diabetes Care;8,56
+231;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-231;2027-11-05;GSK;Pain Relief;5,6
+232;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-232;2027-12-01;Pfizer;Pain Relief;6,26
+233;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-233;2027-10-01;Roche;Cholesterol Control;6,32
+234;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-234;2026-11-01;GSK;Pain Relief;5,54
+235;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-235;2027-01-24;Pfizer;Pain Relief;6,27
+236;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-236;2025-09-14;Teva;Allergy Relief;4,26
+237;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-237;2027-01-24;Sanofi;Allergy Relief;5,62
+238;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-238;2026-05-17;Reckitt Benckiser;Cold & Flu;6,39
+239;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-239;2025-08-31;Merck;Diabetes Care;8,61
+240;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-240;2025-12-29;Merck;Diabetes Care;8,94
+241;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-241;2028-01-26;Roche;Cholesterol Control;6,77
+242;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-242;2026-07-10;Novartis;Antibiotics;9,44
+243;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-243;2026-10-30;AstraZeneca;Digestive Health;8,25
+244;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-244;2026-04-10;Pfizer;Pain Relief;5,23
+245;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-245;2027-06-11;Novartis;Antibiotics;10,9
+246;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-246;2025-08-08;Teva;Allergy Relief;3,16
+247;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-247;2026-12-30;GSK;Pain Relief;4,29
+248;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-248;2025-11-09;Bayer;Heart Health;3,51
+249;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-249;2026-01-09;Roche;Cholesterol Control;7,48
+250;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-250;2027-03-28;GSK;Pain Relief;4,13
+251;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-251;2026-12-05;Novartis;Antibiotics;9,05
+252;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-252;2027-01-31;Roche;Cholesterol Control;5,96
+253;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-253;2026-09-27;Teva;Allergy Relief;5,63
+254;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-254;2026-11-09;Novartis;Antibiotics;8,78
+255;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-255;2027-11-11;Novartis;Antibiotics;10,06
+256;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-256;2027-05-29;Bayer;Heart Health;4,02
+257;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-257;2027-11-27;Novartis;Antibiotics;8,09
+258;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-258;2027-12-01;Sanofi;Allergy Relief;5,61
+259;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-259;2027-02-03;Sanofi;Allergy Relief;5,57
+260;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-260;2027-11-27;Reckitt Benckiser;Cold & Flu;6,25
+261;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-261;2026-06-01;GSK;Pain Relief;4,39
+262;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-262;2027-08-18;GSK;Pain Relief;3,86
+263;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-263;2027-08-27;Roche;Cholesterol Control;6,87
+264;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-264;2027-02-10;Pfizer;Pain Relief;4,92
+265;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-265;2025-10-19;Merck;Diabetes Care;7,62
+266;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-266;2027-08-01;Novartis;Antibiotics;9,45
+267;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-267;2027-12-19;Sanofi;Allergy Relief;6,04
+268;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-268;2026-09-12;AstraZeneca;Digestive Health;6,97
+269;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-269;2027-08-03;Pfizer;Pain Relief;6,24
+270;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-270;2027-03-15;AstraZeneca;Digestive Health;6,09
+271;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-271;2026-08-24;GSK;Pain Relief;4,02
+272;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-272;2027-11-03;Sanofi;Allergy Relief;4,52
+273;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-273;2027-02-27;Pfizer;Pain Relief;6,37
+274;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-274;2027-10-20;Reckitt Benckiser;Cold & Flu;7,44
+275;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-275;2026-05-04;Reckitt Benckiser;Cold & Flu;6,35
+276;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-276;2026-02-13;AstraZeneca;Digestive Health;6,04
+277;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-277;2026-02-15;Merck;Diabetes Care;8,13
+278;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-278;2027-08-28;Roche;Cholesterol Control;5,27
+279;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-279;2026-05-18;AstraZeneca;Digestive Health;7,79
+280;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-280;2027-12-01;Teva;Allergy Relief;5,33
+281;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-281;2026-03-05;GSK;Pain Relief;4,82
+282;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-282;2027-07-13;Pfizer;Pain Relief;6,11
+283;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-283;2026-02-20;AstraZeneca;Digestive Health;6,91
+284;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-284;2026-09-24;Merck;Diabetes Care;7,02
+285;Cough Syrup 120ml;Relieves cough and throat irritation;COUGH120-285;2027-08-17;Reckitt Benckiser;Cold & Flu;5,63
+286;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-286;2025-11-23;Teva;Allergy Relief;5,31
+287;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-287;2025-09-10;Teva;Allergy Relief;4,25
+288;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-288;2027-09-08;Teva;Allergy Relief;4,96
+289;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-289;2026-08-20;Teva;Allergy Relief;4,85
+290;Ibuprofen 200mg Tablets;Reduces inflammation and pain;IBU200-290;2026-09-04;Pfizer;Pain Relief;4,82
+291;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-291;2027-03-14;Novartis;Antibiotics;8,91
+292;Cetirizine 10mg Tablets;Antihistamine for hay fever and allergies;CET10-292;2026-06-17;Sanofi;Allergy Relief;4,01
+293;Simvastatin 40mg Tablets;Used to lower cholesterol and triglycerides;SIM40-293;2026-08-06;Roche;Cholesterol Control;5,61
+294;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-294;2025-08-03;GSK;Pain Relief;3,43
+295;Omeprazole 20mg Capsules;Reduces stomach acid for acid reflux treatment;OME20-295;2026-12-14;AstraZeneca;Digestive Health;7,24
+296;Amoxicillin 500mg Capsules;Broad-spectrum antibiotic for bacterial infections;AMOX500-296;2026-07-03;Novartis;Antibiotics;10,29
+297;Loratadine 10mg Tablets;Non-drowsy antihistamine for allergy symptoms;LOR10-297;2028-01-14;Teva;Allergy Relief;4,52
+298;Aspirin 75mg Tablets;Low-dose aspirin for heart attack prevention;ASP75-298;2026-02-16;Bayer;Heart Health;4,05
+299;Paracetamol 500mg Tablets;Used to relieve mild to moderate pain and fever;PARA500-299;2025-12-06;GSK;Pain Relief;4,93
+300;Metformin 500mg Tablets;Used to control blood sugar levels in type 2 diabetes;MET500-300;2026-07-24;Merck;Diabetes Care;7,19

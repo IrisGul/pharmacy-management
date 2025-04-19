@@ -1,0 +1,377 @@
+    /* index.css */
+    /* Allgemeines Layout  algemein css für ganze Project*/
+    
+    body,
+    html {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        box-sizing: border-box;
+    }
+    /* Container mit zwei Seiten LOGIN*/
+    
+    .login-container {
+        display: flex;
+        height: 100vh;
+    }
+    /* Linke Seite LOGIN */
+    
+    .login-left {
+        flex: 1;
+        background-color: #ffffff;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .logo-img {
+        width: 100px;
+        margin-bottom: 20px;
+    }
+    
+    .system-name {
+        font-weight: bold;
+        font-size: 24px;
+        text-align: center;
+        color: #1e2e47;
+    }
+    /* Rechte Seite-> LOGIN*/
+    
+    .login-right {
+        flex: 1;
+        background-color: #1e2e47;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .login-box {
+        background-color: #ffffff;
+        padding: 40px;
+        border-radius: 10px;
+        width: 320px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    
+    .login-box h2 {
+        text-align: center;
+        margin-bottom: 20px;
+        color: #1e2e47;
+    }
+    
+    form {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    label {
+        margin-bottom: 5px;
+        color: #1e2e47;
+        font-size: 14px;
+    }
+    
+    input[type="text"],
+    input[type="password"] {
+        padding: 10px;
+        margin-bottom: 15px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+    
+    .button-group {
+        display: flex;
+        justify-content: space-between;
+        gap: 10px;
+        margin-top: 10px;
+    }
+    
+    .btn {
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        flex: 1;
+        font-weight: bold;
+    }
+    
+    .btn.sign-in {
+        background-color: #007bff;
+        color: #fff;
+    }
+    
+    .btn.register {
+        background-color: #6c757d;
+        color: #fff;
+    }
+    /*RGISTER SEITE  ab hier */
+    
+    .register-container {
+        max-width: 400px;
+        background-color: #87a8db;
+        margin: 2rem auto;
+        padding: 2rem;
+        border-radius: 10px;
+        position: relative;
+    }
+    
+    .register-logo {
+        height: 50px;
+        margin-bottom: 1rem;
+    }
+    
+    form {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    input,
+    select {
+        padding: 8px;
+        border-radius: 4px;
+        border: 1px solid #ccc;
+    }
+    
+    button[type="submit"] {
+        background-color: #3366cc;
+        color: white;
+        border: none;
+        padding: 10px;
+        margin-top: 10px;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    
+    .strength-bar {
+        height: 6px;
+        margin-top: 4px;
+        border-radius: 3px;
+    }
+    
+    .close-button {
+        position: absolute;
+        top: 10px;
+        right: 14px;
+        font-size: 20px;
+        background: none;
+        border: none;
+        cursor: pointer;
+    }
+    /*ab hier Dashboard*/
+    /* === Dashboard Styles === */
+    /* ========== HEADER STYLES ========== */
+    
+    .header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 12px 40px;
+        background-color: #ffffff;
+        border-bottom: 1px solid #eee;
+    }
+    
+    .logo {
+        height: 60px;
+        width: 60px;
+        object-fit: contain;
+    }
+    
+    .search-bar {
+        display: flex;
+        align-items: center;
+        border: 2px solid #d40613;
+        border-radius: 20px;
+        background-color: #fdf6f6;
+        max-width: 500px;
+        /* Begrenze maximale Breite */
+        width: 100%;
+        margin: 0 1rem;
+        flex-shrink: 0;
+        /* verhindert Schrumpfen */
+    }
+    
+    .search-bar input {
+        flex: 1;
+        border: none;
+        padding: 10px 16px;
+        font-size: 16px;
+        outline: none;
+        background: transparent;
+        min-width: 0;
+        /* wichtig für flex-wrap */
+    }
+    
+    .search-button {
+        background-color: #d14f58;
+        color: white;
+        border: none;
+        border-radius: 0 10px 10px 0;
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        /* 📱 Responsive Verhalten */
+        min-width: 80px;
+        max-width: 120px;
+        width: 100%;
+    }
+    
+    @media (max-width: 600px) {
+        .search-button {
+            font-size: 0.8rem;
+            padding: 0.4rem 0.8rem;
+        }
+    }
+    
+    .user-options {
+        display: flex;
+        align-items: center;
+        gap: 20px;
+    }
+    
+    .user-options a {
+        text-decoration: none;
+        color: black;
+        font-weight: bold;
+        font-size: 14px;
+    }
+    /* ========== NAVBAR STYLES ========== */
+    
+    .navbar {
+        background-color: #ffe0d1;
+        padding: 8px 40px;
+        display: flex;
+        justify-content: center;
+        /* fügt zentrierte Ausrichtung hinzu */
+        gap: 24px;
+        font-weight: bold;
+        overflow-x: auto;
+    }
+    
+    .navbar a {
+        text-decoration: none;
+        color: black;
+        font-size: 14px;
+        white-space: nowrap;
+    }
+    
+    .menu-icon {
+        font-size: 20px;
+        margin-right: 10px;
+    }
+    /* ========== CONTENT STYLES ========== */
+    
+    .dashboard-content {
+        padding: 30px 40px;
+        font-family: Arial, sans-serif;
+    }
+    
+    .dashboard-content h2 {
+        margin-bottom: 10px;
+        font-size: 22px;
+    }
+    
+    .dashboard-content p {
+        font-size: 16px;
+        color: #555;
+    }
+    /*PRODUCT-LIST*/
+    /* Product List Styles */
+    
+    .product-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 1rem;
+    }
+    
+    .product-table th,
+    .product-table td {
+        border: 1px solid #ddd;
+        padding: 0.5rem;
+        text-align: left;
+    }
+    
+    .btn-primary {
+        background-color: #1e90ff;
+        color: white;
+        padding: 0.5rem 1rem;
+        margin-bottom: 1rem;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+    
+    .btn-edit,
+    .btn-delete {
+        margin-right: 0.5rem;
+        cursor: pointer;
+        background: none;
+        border: none;
+        font-size: 1.2rem;
+    }
+    /*Buttons -----  Style*/
+    
+    .btn-primary {
+        background-color: #007bff;
+        color: white;
+        padding: 0.5rem 1rem;
+        border: none;
+        border-radius: 6px;
+        cursor: pointer;
+    }
+    
+    .btn-edit {
+        background-color: #f0b9a5;
+        color: black;
+        margin-right: 5px;
+        border: none;
+        padding: 0.3rem 0.6rem;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    
+    .btn-delete {
+        background-color: #3a6ed6;
+        color: white;
+        border: none;
+        padding: 0.3rem 0.6rem;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    /*Style für ProductModal--- addfenster*/
+    
+    .modal-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.4);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 999;
+    }
+    
+    .modal-content {
+        background: white;
+        padding: 2rem;
+        border-radius: 10px;
+        width: 400px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    }
+    
+    .modal-content input {
+        width: 100%;
+        padding: 0.5rem;
+        margin-bottom: 0.75rem;
+        border: 1px solid #ccc;
+        border-radius: 6px;
+    }
+    
+    .modal-buttons {
+        display: flex;
+        justify-content: flex-end;
+        gap: 0.5rem;
+    }
