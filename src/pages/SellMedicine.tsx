@@ -103,7 +103,7 @@ const SellMedicine = () => {
 
   useEffect(() => {
     fetch(productDataCSV)
-      .then((res) => res.text())
+      .then((res) => res.text())   // statt text json    später
       .then((text) => {
         const parsed = Papa.parse(text, { header: true });
         const data: Product[] = parsed.data.map((row: any) => ({

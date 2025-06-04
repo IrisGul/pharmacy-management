@@ -1,17 +1,16 @@
 import { useNavigate } from "react-router-dom";
-import React, { useState } from "react";
+import React from "react";
 import { useSearch } from "../context/SearchContext";
-import Logo from "../assets/Logo.png"; // ✅ Import hinzufügen
+import Logo from "../assets/Logo.png";
 import "../index.css";
 
 interface LayoutProps {
-  children: React.ReactNode;
+  children?: React.ReactNode;
 }
 
 const Layout: React.FC<LayoutProps> = ({ children }) => {
   const navigate = useNavigate();
-
-  const { searchTerm, setSearchTerm } = useSearch(); // Global
+  const { searchTerm, setSearchTerm } = useSearch();
 
   return (
     <div className="dashboard-page">
@@ -25,12 +24,11 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
           />
-
           <button
             className="search-button"
-            style={{ padding: "0.5rem 1rem", fontSize: "0.9rem" }} // ✅ Kürzerer Button
+            style={{ padding: "0.5rem 1rem", fontSize: "0.9rem" }}
           >
-            Search... 
+            Search...
           </button>
         </div>
         <div className="user-options">
@@ -58,7 +56,16 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
       </div>
 
       {/* Seiteninhalt */}
-      <div className="dashboard-content">{children}</div>
+      <div className="layout-content">
+        {children ? (
+          children
+        ) : (
+          <>
+            <h2>Welcome to the Pharmacy Dashboard</h2>
+            <p>Here you can view the product list or sell medicine.</p>
+          </>
+        )}
+      </div>
     </div>
   );
 };
