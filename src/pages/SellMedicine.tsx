@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import Papa from "papaparse";
-import Layout from "./Layout";
 import { Product } from "../interfaces/Product";
 import productDataCSV from "../assets/product-list.csv?url";
 import { useSearch } from "../context/SearchContext"; // ✅ hinzufügen
@@ -90,7 +89,7 @@ const SellMedicine = () => {
 
     // 🧾 QR-Code einfügen (optional Link oder ID)
 
-    const qrText = `http://192.168.3.37:5182/invoice/${invoiceId}`; // Mit Handy QRCode scennen hier 
+    const qrText = `http://192.168.3.37:5182/invoice/${invoiceId}`; // Mit Handy QRCode scennen hier
     console.log("📱 QR-Link für Handy:", qrText);
 
     const qrDataUrl = await QRCode.toDataURL(qrText);
@@ -103,7 +102,7 @@ const SellMedicine = () => {
 
   useEffect(() => {
     fetch(productDataCSV)
-      .then((res) => res.text())   // statt text json    später
+      .then((res) => res.text()) // statt text json    später
       .then((text) => {
         const parsed = Papa.parse(text, { header: true });
         const data: Product[] = parsed.data.map((row: any) => ({
@@ -177,7 +176,7 @@ const SellMedicine = () => {
   };
 
   return (
-    <Layout>
+    <>
       <div
         className="sell-medicine-container"
         style={{ display: "flex", gap: "2rem" }}
@@ -185,6 +184,13 @@ const SellMedicine = () => {
         {checkoutOpen && (
           <div className="modal-overlay">
             <div className="modal-content">
+              <div
+                className="close-button"
+                onClick={() => setCheckoutOpen(false)}
+              >
+                ❌
+              </div>
+
               <h3>🧾 Bestellübersicht</h3>
 
               {/* Produktliste */}
@@ -574,7 +580,7 @@ const SellMedicine = () => {
           </div>
         </div>
       )}
-    </Layout>
+    </>
   );
 };
 

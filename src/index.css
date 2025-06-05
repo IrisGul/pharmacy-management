@@ -360,6 +360,7 @@
         border-radius: 10px;
         width: 400px;
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        position: relative;
     }
     
     .modal-content input {
@@ -374,4 +375,17 @@
         display: flex;
         justify-content: flex-end;
         gap: 0.5rem;
+    }
+    
+    .close-button {
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: red;
+        cursor: pointer;
+        background: transparent;
+        border: none;
+        z-index: 1000;
     }
